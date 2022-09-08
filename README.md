@@ -1,1 +1,3 @@
-# dsa
+# Data Structure and Algorithms
+
+Provided all basic coding questions on Array, LinkedList, Stack, Queue, Tree, Heap, Searching, Sorting etc...
