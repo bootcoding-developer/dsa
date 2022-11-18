@@ -1,3 +1,5 @@
-# Data Structure and Algorithms
+# Bootcoding - Data Structure and Algorithms
 
-Provided all basic coding questions on Array, LinkedList, Stack, Queue, Tree, Heap, Searching, Sorting etc...
+A practical oriented training on Array, LinkedList, Stack, Queue, Tree, Heap, Searching, Sorting etc...
+
+#### Bootcoding assists all students to improve coding skills by practicing on numerous coding assignments.
